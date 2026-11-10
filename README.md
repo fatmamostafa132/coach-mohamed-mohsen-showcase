@@ -17,6 +17,28 @@ A modern web platform concept designed to connect fitness coaching, personalized
 
 ---
 
+<h2 align="center">✦ Project Showcase</h2>
+
+<p align="center">
+  <img src="./mohsen1.jpg" alt="Coach Mohamed Mohsen - Homepage" width="100%" />
+</p>
+
+<p align="center">
+  <i>Homepage — A bold and immersive fitness experience.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./mohsen2.jpg" alt="Coach Mohamed Mohsen - About Page" width="100%" />
+</p>
+
+<p align="center">
+  <i>About Page — Personal branding and storytelling.</i>
+</p>
+
+<br>
+
 ## ✦ Project Overview
 
 Coach Mohamed Mohsen is a fitness coaching platform concept focused on creating a modern and engaging digital experience.
